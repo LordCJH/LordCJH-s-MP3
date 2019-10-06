@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>leftbutton.png</file>
+        <file>pausebutton.png</file>
+        <file>playbutton.png</file>
+        <file>rightbutton.png</file>
+        <file>itemloop.png</file>
+        <file>random.png</file>
+        <file>loop.png</file>
+        <file>loop1.png</file>
+        <file>loop3.png</file>
+        <file>loop2.png</file>
+        <file>loop4.png</file>
+        <file>noVol.png</file>
+        <file>VolOn.png</file>
+    </qresource>
+</RCC>
